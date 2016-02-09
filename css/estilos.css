@@ -1,0 +1,26 @@
+#head{
+    height: 122px;
+
+}
+hr{
+   border: 0; border-top: 1px solid orange; border-bottom: 1px solid orange; height:0;
+}
+.articulo{
+border: 2px solid orange;
+border-radius: 4px;
+}
+#head a{
+    font-size: 48px;
+    line-height: 122px;
+}
+#head img{
+   vertical-align: 0px;
+   height: 110px;
+}
+
+.row{
+    margin-bottom:0px;
+}
+footer.page-footer {
+    margin-top: 0px;
+    }
